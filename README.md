@@ -1,4 +1,4 @@
-# :fire: API Desenvolvida com Node JS
+# API Desenvolvida com Node JS
 
 - login
 - cadastro de usuario normal/provedor
